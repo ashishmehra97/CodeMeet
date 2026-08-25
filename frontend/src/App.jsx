@@ -1,5 +1,4 @@
 import { SignInButton, SignOutButton, UserButton, Show } from '@clerk/react'
-import './App.css'
 
 const App = ()=>{
   return(
